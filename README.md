@@ -8,3 +8,6 @@ set up your venv or whatever.
 Add the .env file to ignored files in intellij settings
 
 ![](docs/settings.png)
+
+## Disclaimer
+In your project you would not push the .env to github, here it is done for reproducablility.
